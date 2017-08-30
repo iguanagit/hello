@@ -8,6 +8,8 @@ another change in linux lmde
 cr 
 un cambio desde g
 otro cambio
+parche-1
+parche-2
 
 
 
